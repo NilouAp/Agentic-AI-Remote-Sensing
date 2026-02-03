@@ -19,28 +19,28 @@ If you find this work useful, please cite it using the following BibTeX entry.
 </div>
 
 ## Summary of Remote Sensing Agents
-| NO | Method | Taxonomy | Venue | Year | Code | Paper Link                                                                        |
-|----|--------|----------|-------|------|------|-----------------------------------------------------------------------------------|
-| 1 | RS-Agent | Single-Agent | arXiv | 2024 | [Link](https://github.com/IntelliSensing/RS-Agent) | [Link](https://arxiv.org/pdf/2406.07089)                                          |
-| 2 | RS ChatGPT | Single-Agent | IGARSS | 2024 | [Link](https://github.com/HaonanGuo/Remote-Sensing-ChatGPT) | [Link](https://arxiv.org/pdf/2401.09083)                                          |
-| 3 | GeoAgent | Single-Agent | arXiv | 2024 | N/A | [Link](https://arxiv.org/pdf/2410.18792)                                          |
-| 4 | Geode | Single-Agent | arXiv | 2024 | [Link](https://github.com/devashish-gupta/Geode) | [Link](https://arxiv.org/pdf/2407.11014)                                          |
+| NO | Method | Taxonomy | Venue | Year | Code                                                         | Paper Link                                                                        |
+|----|--------|----------|-------|------|--------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| 1 | RS-Agent | Single-Agent | arXiv | 2024 | [Link](https://github.com/IntelliSensing/RS-Agent)           | [Link](https://arxiv.org/pdf/2406.07089)                                          |
+| 2 | RS ChatGPT | Single-Agent | IGARSS | 2024 | [Link](https://github.com/HaonanGuo/Remote-Sensing-ChatGPT)  | [Link](https://arxiv.org/pdf/2401.09083)                                          |
+| 3 | GeoAgent | Single-Agent | arXiv | 2024 | N/A                                                          | [Link](https://arxiv.org/pdf/2410.18792)                                          |
+| 4 | Geode | Single-Agent | arXiv | 2024 | [Link](https://github.com/devashish-gupta/Geode)             | [Link](https://arxiv.org/pdf/2407.11014)                                          |
 | 5 | GIS Copilot | Single-Agent | International Journal of Digital Earth | 2025 | [Link](https://github.com/Teakinboyewa/SpatialAnalysisAgent) | [Link](https://arxiv.org/pdf/2411.03205)                                          |
-| 6 | TREE-GPT | Single-Agent | arXiv | 2023 | N/A | [Link](https://arxiv.org/pdf/2310.04698)                                          |
-| 7 | Earth-Agent | Single-Agent | arXiv | 2025 | N/A | [Link](https://arxiv.org/pdf/2509.23141)                                          |
-| 8 | Earth AI | Multi-Agent | arXiv | 2025 | N/A | [Link](https://arxiv.org/pdf/2510.18318)                                          |
-| 9 | Change-Agent | Single-Agent | IEEE TGRS | 2024 | [Link](https://github.com/chenxiFFF/Change-Agent) | [Link](https://arxiv.org/pdf/2403.19646)                                          |
-| 10 | DA4DTE | Multi-Agent | DARES Workshop | 2025 | N/A | [Link](https://dares.site/dares25/accepted_papers/DA4DTE.pdf)                     |
-| 11 | EarthLink | Multi-Agent | arXiv | 2025 | N/A | [Link](https://arxiv.org/pdf/2502.04528)                                          |
-| 12 | CartoAgent | Multi-Agent | IJGIS | 2025 | N/A | [Link](https://arxiv.org/pdf/2505.09936)                                          |
-| 13 | WALMAS | Multi-Agent | Geomatica | 2025 | [Link](https://github.com/mhvahidnia/MAS-LLMs) | [Link](https://www.sciencedirect.com/science/article/pii/S1195103625000278/pdfft) |
-| 14 | STA-CoT | Multi-Agent | Findings of EMNLP | 2025 | N/A | [Link](https://openreview.net/pdf?id=mjAfH0KGOo)                                  |
-| 15 | MineAgent | Multi-Agent | arXiv | 2024 | N/A | [Link](https://arxiv.org/pdf/2412.17339)                                          |
-| 16 | Wildfire Agents | Single-Agent | arXiv | 2025 | N/A | [Link](https://arxiv.org/pdf/2510.12061)                                                                                |
-| 17 | RingMo-Agent | Single-Agent | arXiv | 2025 | N/A | [Link](https://arxiv.org/pdf/2507.20776)                                          |
-| 18 | Agentic UAV Frameworks | Single-Agent | arXiv | 2025 | N/A | [Link](https://arxiv.org/pdf/2509.13352)                                          |
-| 19 | GeoLLM-Engine | Multi-Agent | CVPRW | 2024 | N/A | [Link](https://arxiv.org/pdf/2405.07911)                                          |
-| 20 | GeoCode-GPT | Single-Agent | International Journal of Applied Earth Observation and Geoinformation | 2025 | [Link](https://github.com/whuhsy/GeoCode-GPT) | [Link](https://arxiv.org/pdf/2410.17031)                                          |
-| 21 | GeoGraphRAG | Single-Agent | International Journal of Applied Earth Observation and Geoinformation | 2025 | N/A | [Link](https://doi.org/10.1016/j.jag.2025.104712)                                 |
-| 22 | ShapefileGPT | Multi-Agent | arXiv | 2024 | N/A | [Link](https://arxiv.org/pdf/2410.12376)                                          |
-| 23 | GeoLLM-Squad | Multi-Agent | arXiv | 2025 | N/A | [Link](https://arxiv.org/pdf/2501.16254)                                          |
+| 6 | TREE-GPT | Single-Agent | arXiv | 2023 | N/A                                                          | [Link](https://arxiv.org/pdf/2310.04698)                                          |
+| 7 | Earth-Agent | Single-Agent | arXiv | 2025 | [Link](https://github.com/opendatalab/Earth-Agent)                                                           | [Link](https://arxiv.org/pdf/2509.23141)                                          |
+| 8 | Earth AI | Multi-Agent | arXiv | 2025 | N/A                                                          | [Link](https://arxiv.org/pdf/2510.18318)                                          |
+| 9 | Change-Agent | Single-Agent | IEEE TGRS | 2024 | [Link](https://github.com/chenxiFFF/Change-Agent)            | [Link](https://arxiv.org/pdf/2403.19646)                                          |
+| 10 | DA4DTE | Multi-Agent | DARES Workshop | 2025 | N/A                                                          | [Link](https://dares.site/dares25/accepted_papers/DA4DTE.pdf)                     |
+| 11 | EarthLink | Multi-Agent | arXiv | 2025 | N/A                                                          | [Link](https://arxiv.org/pdf/2502.04528)                                          |
+| 12 | CartoAgent | Multi-Agent | IJGIS | 2025 | N/A                                                          | [Link](https://arxiv.org/pdf/2505.09936)                                          |
+| 13 | WALMAS | Multi-Agent | Geomatica | 2025 | [Link](https://github.com/mhvahidnia/MAS-LLMs)               | [Link](https://www.sciencedirect.com/science/article/pii/S1195103625000278/pdfft) |
+| 14 | STA-CoT | Multi-Agent | Findings of EMNLP | 2025 | N/A                                                          | [Link](https://openreview.net/pdf?id=mjAfH0KGOo)                                  |
+| 15 | MineAgent | Multi-Agent | arXiv | 2024 | N/A                                                          | [Link](https://arxiv.org/pdf/2412.17339)                                          |
+| 16 | Wildfire Agents | Single-Agent | arXiv | 2025 | N/A                                                          | [Link](https://arxiv.org/pdf/2510.12061)                                                                                |
+| 17 | RingMo-Agent | Single-Agent | arXiv | 2025 | N/A                                                          | [Link](https://arxiv.org/pdf/2507.20776)                                          |
+| 18 | Agentic UAV Frameworks | Single-Agent | arXiv | 2025 | N/A                                                          | [Link](https://arxiv.org/pdf/2509.13352)                                          |
+| 19 | GeoLLM-Engine | Multi-Agent | CVPRW | 2024 | N/A                                                          | [Link](https://arxiv.org/pdf/2405.07911)                                          |
+| 20 | GeoCode-GPT | Single-Agent | International Journal of Applied Earth Observation and Geoinformation | 2025 | [Link](https://github.com/whuhsy/GeoCode-GPT)                | [Link](https://arxiv.org/pdf/2410.17031)                                          |
+| 21 | GeoGraphRAG | Single-Agent | International Journal of Applied Earth Observation and Geoinformation | 2025 | N/A                                                          | [Link](https://doi.org/10.1016/j.jag.2025.104712)                                 |
+| 22 | ShapefileGPT | Multi-Agent | arXiv | 2024 | N/A                                                          | [Link](https://arxiv.org/pdf/2410.12376)                                          |
+| 23 | GeoLLM-Squad | Multi-Agent | arXiv | 2025 | N/A                                                          | [Link](https://arxiv.org/pdf/2501.16254)                                          |
