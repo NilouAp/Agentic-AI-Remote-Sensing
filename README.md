@@ -18,3 +18,9 @@ If you find this work useful, please cite it using the following BibTeX entry.
   <img src="./Overview.png" width="900" alt="Overview">
 </div>
 
+## Summary of Remote Sensing Agents
+
+| NO | Method        | Taxonomy     | Venue | Year | Code | Paper Link |
+|----|---------------|--------------|-------|------|----|---------|
+| 1 | RS-Agent      | Single-Agent | arXiv | 2024 | [Link](https://github.com/IntelliSensing/RS-Agent) | [Link](https://arxiv.org/pdf/2406.07089) |
+| 2 | RS ChatGPT    | Single-Agent | IGARSS | 2024 | [Link](https://github.com/HaonanGuo/Remote-Sensing-ChatGPT) | [Link](https://openreview.net/forum?id=41e9o6cQPj) |
