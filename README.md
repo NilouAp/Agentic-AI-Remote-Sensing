@@ -44,3 +44,15 @@ If you find this work useful, please cite it using the following BibTeX entry.
 | 21 | GeoGraphRAG | Single-Agent | International Journal of Applied Earth Observation and Geoinformation | 2025 | N/A | [Link](https://doi.org/10.1016/j.jag.2025.104712) |
 | 22 | ShapefileGPT | Multi-Agent | arXiv | 2024 | N/A | [Link](https://arxiv.org/pdf/2410.12376) |
 | 23 | GeoLLM-Squad | Multi-Agent | arXiv | 2025 | N/A | [Link](https://arxiv.org/pdf/2501.16254) |
+
+
+## Benchmark and Dataset Summary for Agentic Geospatial and Remote Sensing Reasonin
+| NO | Dataset / Benchmark | Applications | Venue | Year | Code | Paper Link |
+|----|----------------------|--------------|------|------|------|------------|
+| 1 | GeoBenchX | Multi-step GIS reasoning | ACM SIGSPATIAL Workshop | 2025 | [Link](https://github.com/Solirinai/GeoBenchX) | [Link](https://arxiv.org/pdf/2503.18129) |
+| 2 | GTChain-IT / CTChain-Eval | Benchmarking LLMs on geospatial tool use tasks | International Journal of Applied Earth Observation and Geoinformation | 2025 | [Link](https://github.com/AGI-GIS/GTChain) | [Link](https://www.sciencedirect.com/science/article/pii/S1569843224006708) |
+| 3 | RS-VL3M | Benchmark for multi turn dialogue over SAR/IR with joint perception | arXiv | 2025 | - | [Link](https://arxiv.org/pdf/2507.20776) |
+| 4 | ThinkGeo | Benchmark to evaluate tool-augmented LLM agents on realistic remote sensing tasks | arXiv | 2025 | [Link](https://github.com/mbzuai-oryx/ThinkGeo) | [Link](https://arxiv.org/pdf/2505.23752) |
+| 5 | RescueADI | Adaptive disaster interpretation | IEEE Transactions on Geoscience and Remote Sensing | 2025 | - | [Link](https://arxiv.org/pdf/2410.13384) |
+| 6 | Shapefile | Benchmarking on 42 Shapefile spatial analysis tasks | International Journal of Digital Earth | 2025 | - | [Link](https://arxiv.org/pdf/2410.12376) |
+| 7 | CORE | Evaluation framework for tool-using agents | NeurIPS Workshop (LAW) | 2025 | [Link](https://github.com/Synkrasis-Labs/CORE) | [Link](https://openreview.net/pdf?id=5nmpK5HtsD) |
