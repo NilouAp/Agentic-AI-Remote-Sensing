@@ -46,7 +46,7 @@ If you find this work useful, please cite it using the following BibTeX entry.
 | 23 | GeoLLM-Squad | Multi-Agent | arXiv | 2025 | N/A | [Link](https://arxiv.org/pdf/2501.16254) |
 
 
-## Benchmark and Dataset Summary for Agentic Geospatial and Remote Sensing Reasonin
+## Benchmark and Dataset Summary for Agentic Geospatial and Remote Sensing Reasoning
 | NO | Dataset / Benchmark | Applications | Venue | Year | Code | Paper Link |
 |----|----------------------|--------------|------|------|------|------------|
 | 1 | GeoBenchX | Multi-step GIS reasoning | ACM SIGSPATIAL Workshop | 2025 | [Link](https://github.com/Solirinai/GeoBenchX) | [Link](https://arxiv.org/pdf/2503.18129) |
