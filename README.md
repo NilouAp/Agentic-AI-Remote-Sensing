@@ -41,7 +41,7 @@ If you find this work useful, please cite it using the following BibTeX entry.
 | 18 | Agentic UAV Frameworks | Single-Agent | arXiv | 2025 | - | [Link](https://arxiv.org/pdf/2509.13352) |
 | 19 | GeoLLM-Engine | Multi-Agent | CVPRW | 2024 | - | [Link](https://arxiv.org/pdf/2405.07911) |
 | 20 | GeoCode-GPT | Single-Agent | International Journal of Applied Earth Observation and Geoinformation | 2025 | [Link](https://github.com/whuhsy/GeoCode-GPT) | [Link](https://arxiv.org/pdf/2410.17031) |
-| 21 | GeoGraphRAG | Single-Agent | International Journal of Applied Earth Observation and Geoinformation | 2025 | N/A | [Link](https://doi.org/10.1016/j.jag.2025.104712) |
+| 21 | GeoGraphRAG | Single-Agent | International Journal of Applied Earth Observation and Geoinformation | 2025 | - | [Link](https://doi.org/10.1016/j.jag.2025.104712) |
 | 22 | ShapefileGPT | Multi-Agent | arXiv | 2024 | - | [Link](https://arxiv.org/pdf/2410.12376) |
 | 23 | GeoLLM-Squad | Multi-Agent | arXiv | 2025 | - | [Link](https://arxiv.org/pdf/2501.16254) |
 
